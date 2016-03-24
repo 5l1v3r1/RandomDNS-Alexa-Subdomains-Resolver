@@ -1,0 +1,16 @@
+{
+  "name": "randomdns-alexa-subdomains-resolver",
+  "version": "1.0.0",
+  "description": "Resolve subdomains of the Alexa top 1 million sites by using subbrute. This repository is a part of the RandomDNS project.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sabri Haddouche",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "csv": "^0.4.6",
+    "debug": "^2.2.0"
+  }
+}
