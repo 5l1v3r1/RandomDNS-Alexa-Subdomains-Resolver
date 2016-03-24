@@ -21,7 +21,6 @@ const assert        = require('assert'),
       fs            = require('fs'),
       cli           = require('commander'),
       debug         = require('debug'),
-      csv           = require('csv'),
       resolverDebug = debug('resolver');
 
 class RandomDNSResolver {
